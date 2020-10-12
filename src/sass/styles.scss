@@ -1,0 +1,11 @@
+@import "~bootstrap/scss/bootstrap";
+
+$red: rgb(255, 20, 20);
+
+p {
+  color: $red;
+}
+
+body {
+  background-image: url(../images/image_blackbody.jpg);
+}
